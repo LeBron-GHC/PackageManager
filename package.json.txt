@@ -13,7 +13,7 @@
     {
       "displayName": "测试",
       "description": "测试",
-      "path": "Demo"
+      "path": "Demo~"
     }
 ]
 }
